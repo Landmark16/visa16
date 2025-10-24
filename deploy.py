@@ -8,3 +8,5 @@ deploy toys
 deployment 5 master
 deployment 4
 deploy to staging env
+echo "good job"
+tested and accepted

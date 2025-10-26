@@ -1,3 +1,4 @@
+
 #!/bin/java
 
 #users list
@@ -7,3 +8,6 @@ Paul
 chi
 ope
   
+#password secrestd
+we need secreats 
+and we 

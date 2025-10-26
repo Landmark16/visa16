@@ -1,3 +1,6 @@
 i am on my way to success
 i am blessed 
 we are making change
+
+i want to check if the key is added to all the repos and attached to the
+git account 
